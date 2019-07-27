@@ -11,5 +11,7 @@ install.packages(c("jsonlite", "plumber"))
 4- Escribir en una pestaña de cualquier navegador:
 
 ```127.0.0.1:8888/eco?string=R rules!```
+
 ```127.0.0.1:8888/irisPlot```
  
+El video está disponible acá: https://www.youtube.com/watch?v=_CefU_kGwpE
